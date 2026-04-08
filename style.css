@@ -8,3 +8,11 @@ header {
  background-color: #c89f7b;
  padding: 20px;
 }
+main {
+ background-color: white;
+ padding: 20px;
+ border-radius: 10px;
+}
+h1 {
+ color: #5c3b28;
+}
